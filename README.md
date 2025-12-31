@@ -13,6 +13,7 @@ The following tools and libraries were utilized across various projects:
 * **Data Manipulation:** Pandas, NumPy
 * **Visualization:** Matplotlib, Seaborn
 * **Environment:** Jupyter Notebook / Google Colab
+* **Business Intelligence:** Power BI
 
 ---
 
@@ -21,7 +22,7 @@ The following tools and libraries were utilized across various projects:
 | Project | Title | Status | Description |
 | :---: | :--- | :---: | :--- |
 | **01** | **Customer Behavior Analysis** | ✅ Completed | Analyzed **135,000+ transactions** using **RFM Segmentation** to identify high-value customers and churn risks. |
-| **02** | **Sales Performance Analysis** | 🚧 Upcoming |  |
+| **02** | **Sales Performance Analysis** | ✅ Completed | Built an interactive **Power BI dashboard** to analyze sales trends, KPIs, category and product performance using the Superstore dataset. |
 | **03** | **Website Traffic Analysis** | 🚧 Upcoming |  |
 
 ---
